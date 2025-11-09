@@ -1,0 +1,17 @@
+# Python Virtual Environment
+.venv/
+venv/
+env/
+
+# Data and Embeddings (Do not commit large generated files)
+# Check the 'data' folder
+data/embeddings/
+data/jd_embeddings.npy
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# IDE/OS files
+.DS_Store
+.vscode/

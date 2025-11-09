@@ -221,5 +221,5 @@ with gr.Blocks() as demo:
 
 if __name__ == "__main__":
     # set share=True to create a public link (optional)
-    demo.launch()
+    demo.launch(share=True)
 

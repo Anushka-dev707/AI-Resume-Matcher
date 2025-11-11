@@ -1,0 +1,5 @@
+TITLE: Bluetooth Stack Test Engineer - Testing & Verification
+
+SKILLS: IT Software - QA & Testing
+
+Job Description Â Send me Jobs like this Notice Period : Max 30 days - Excellent C programming skills - Experience in testing and verification of Bluetooth Protocol stack layers (HCI/LM/LC/LL, ATT,GATT,GAP, L2CAP, RFCOMM, SDP,SMP etc) - High level of proficiency with scripting languages (Python OR Tcl/Tk desired). - Proficient in the use of protocol analyzers and packet sniffers - Proven experience of building or maintaining an automated test framework on Linux platform. Salary: Not Disclosed by Recruiter Industry: IT-Software / Software Services Functional Area: IT Software - QA & Testing Role Category:Programming & Design Role:Testing Engineer Keyskills C TCL TK Testing Linux Test Engineering Python Protocol Stack scripting ATT GATT GAP L2CAP RFCOMM SDP SMP Desired Candidate Profile Â Education- UG: Any Graduate - Any Specialization Doctorate:Doctorate Not Required Company Profile: Strivex Consulting Pvt Ltd leading client of Strivex Consulting Pvt Ltd Download PPT Photo 1 Â View Contact Details

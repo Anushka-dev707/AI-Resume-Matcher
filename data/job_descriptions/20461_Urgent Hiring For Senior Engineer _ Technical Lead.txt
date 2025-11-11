@@ -1,0 +1,5 @@
+TITLE: Urgent Hiring For Senior Engineer / Technical Lead Physical Design
+
+SKILLS: IT Software - Embedded
+
+Job Description Â Send me Jobs like this Hands on experience with Implementation (PnR & Signoff) of multimillion gate SoC designs in cutting edge process technologies (40nm, 28nm, 16nm, 10nm) Salary: Not Disclosed by Recruiter Industry: IT-Software / Software Services Functional Area: IT Software - Embedded , EDA , VLSI , ASIC , Chip Design Role Category:Programming & Design Role:Team Lead/Technical Lead Keyskills PNR Physical Design floor planning place & route Place & Routing signoff STA floor plan timing analysis EDA tools Synopsys GDS Desired Candidate Profile Should have handled Netlist to GDS II implementation at Chip/partition level for atleast 2-3 designs Hands-on expertise with technology nodes like 28nm, 16nm and below Company Profile: Vrinda consultant Pioner in VLSI Design services Pioner in VLSI Design services Download PPT Photo 1 Â View Contact Details

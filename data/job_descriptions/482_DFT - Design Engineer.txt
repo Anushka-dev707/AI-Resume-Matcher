@@ -1,0 +1,5 @@
+TITLE: DFT - Design Engineer
+
+SKILLS: IT Software - Embedded
+
+Job Description Â Send me Jobs like this AC scan for at speed testing Expertise in industry standard EDA tools for DFT such as DFTAdvisor, fastscan/TestKompress, TetraMax, Dft compiler Experience in Full-Chip DFT implementation of Scan, EDT/Basic Scan, JTAG, MBIST, Transition and Path delay ATPG Experience in Gate Level Simulations, STA and Formal Verification Understanding of ATE and test engineering. Post-Silicon debug Programming in Perl, tcl, awk Salary: Not Disclosed by Recruiter Industry: IT-Software / Software Services Functional Area: IT Software - Embedded , EDA , VLSI , ASIC , Chip Design Role Category:Programming & Design Role:Graphic/Web Designer Keyskills Atpg DFT Design Engineering JTAG STA Perl Testing Verification EDA Tools Desired Candidate Profile Â Education- UG: Any Graduate - Any Specialization PG:Any Postgraduate Company Profile: Confidential Confidential Download PPT Photo 1 Â View Contact Details

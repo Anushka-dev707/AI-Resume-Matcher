@@ -162,7 +162,7 @@ print("Usable rows after cleaning:", len(jds))
 # ----------------------------
 # 5) Take only 100 samples
 # ----------------------------
-n_sample = 100
+n_sample = 17000
 if len(jds) > n_sample:
     sample_jds = jds.sample(n_sample, random_state=42)
     print(f"📉 Sampled {n_sample} job descriptions from {len(jds)} total.")

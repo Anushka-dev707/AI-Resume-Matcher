@@ -1,0 +1,5 @@
+TITLE: Ims/volte Developer - Network Element
+
+SKILLS: IT Software - Application Programming
+
+Job Description Â Send me Jobs like this IMS/VoLTE Developer Job Description : - 4+ Experience in the LTE NW elements development - Hands-on experience in LTE Core Network elements (MME, SGW, PGW, PCRF) - Must have worked on at least one or more 3GPP Rx, Gx, Gy, S9, S6a interfaces from Core network towards IMS - Working knowledge on SIP, IMS and VoLTE network architecture, call flow - Strong in C programming language - Prior experience in leading LTE feature design and development required. - Development and testing in Unix/Linux environment and debugging tools Salary: Not Disclosed by Recruiter Industry: IT-Software / Software Services Functional Area: IT Software - Application Programming , Maintenance Role Category:Programming & Design Role:Software Developer Keyskills 3Gpp SGW C PGW SIP Linux Unix IMS LTE Programming Volte Developer Developer Desired Candidate Profile Â Education- UG: Any Graduate - Any Specialization PG:Any Postgraduate Doctorate:Doctorate Not Required Company Profile: PITCS Leading client of PITCS Download PPT Photo 1 Â View Contact Details

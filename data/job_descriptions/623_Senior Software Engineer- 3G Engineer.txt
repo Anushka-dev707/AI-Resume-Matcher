@@ -1,0 +1,5 @@
+TITLE: Senior Software Engineer- 3G Engineer
+
+SKILLS: IT Software - Telecom Software
+
+Job Description Â Send me Jobs like this Primary Skills : Proficiency in C and C++ Must have of End to End 3gpp UMTS call flows, Strong understanding of 3G Core network elements Experience at development in Radio Access Network (RAN) RNC/NodeB/HNB ( Femto Access Point - FAP) related product development, such as o Protocol stack development of 3G RLC, 3G MAC, 3G RRC, RANAP. o L3 Application development, RRM, REM, SON o Linux utilities and development/debugging tools: GDB, purify, insure, valgrind, clearcase Must have gone through multiple product deployment cycles Salary: Not Disclosed by Recruiter Industry: IT-Software / Software Services Functional Area: IT Software - Telecom Software Role Category:Programming & Design Role:Software Developer Keyskills C RLC Ranap UMTS RRC Mac 3Gpp Protocol Stack Valgrind RNC pdcp rlp Desired Candidate Profile Â Company Profile: Confidential Confidential Download PPT Photo 1 Â View Contact Details
